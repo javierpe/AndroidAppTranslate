@@ -16,4 +16,7 @@ Translates an Android application resource, easy and fast!
 <p><b>2.</b>Exports data to XML file resource (strings.xml).</p>
 
 
+<p><b>Main setup</b></p>
+ AAT.py
+
 
