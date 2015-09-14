@@ -27,4 +27,6 @@ Translates an Android application resource, easy and fast!
   <li><p><b>Gmail: </b> francisco.javier.p.ramos@gmail.com</p></li>
 </ul>
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidAppTranslate-green.svg?style=flat)](https://android-arsenal.com/details/1/2482)
+
 
