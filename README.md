@@ -1,4 +1,6 @@
 # AndroidAppTranslate
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidAppTranslate-green.svg?style=flat)](https://android-arsenal.com/details/1/2482)
+
 Translates an Android application resource, easy and fast!
 
 <p><b>Used libraries</b></p>
@@ -26,7 +28,3 @@ Translates an Android application resource, easy and fast!
   <li><p><b>Linkedin: </b> https://mx.linkedin.com/in/fcojavierpena</p></li>
   <li><p><b>Gmail: </b> francisco.javier.p.ramos@gmail.com</p></li>
 </ul>
-
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-AndroidAppTranslate-green.svg?style=flat)](https://android-arsenal.com/details/1/2482)
-
-
